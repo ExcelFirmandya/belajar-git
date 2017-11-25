@@ -1,2 +1,3 @@
-hmm,
+ini baris pertama
  helloooooo
+T_T
